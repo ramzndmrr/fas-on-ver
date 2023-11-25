@@ -1,4 +1,4 @@
-package com.fasonver.fas10ver.domain.controller;
+package com.fasonver.fas10ver.controller;
 
 import com.fasonver.fas10ver.domain.dto.AuthenticationRequest;
 import com.fasonver.fas10ver.domain.dto.AuthenticationResponse;
