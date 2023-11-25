@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api/v/advert")
+@RequestMapping("/api/v1/advert")
 @RequiredArgsConstructor
 public class AdvertController {
 
